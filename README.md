@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @oliverborner
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning laravel/vue
+- 🌱 I’m a frontend developer 
 - 💞️ I’m looking to collaborate on art/music/app projects
 - 📫 How to reach me oliverborner@gmail.com
