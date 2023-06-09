@@ -1,4 +1,4 @@
-⚡️ MLVNT STACK  
+MLVNT STACK  
 [MySQL | Laravel | VUE | Node | TypeScript ]
 
 ⚡️ Sass Evangelist.  
