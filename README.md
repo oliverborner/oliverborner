@@ -1,4 +1,6 @@
-⚡️ MLVNT STACK  [MySQL | Laravel | VUE | Node | TypeScript ]
+⚡️ MLVNT STACK  
+[MySQL | Laravel | VUE | Node | TypeScript ]
+
 ⚡️ Sass Evangelist.  
 ⚡️ Lodash Ambassedor.  
 ⚡️ The one and only Flex.  
