@@ -5,7 +5,12 @@ MLVNT STACK
 ⚡️ Lodash Ambassedor.  
 ⚡️ The one and only Flex.  
 ⚡️ JS Customs.  
-⚡️ VSDefaultCoder.  
-⚡️ Currently felt in love wif TS
+⚡️ TS Satanist.
+⚡️ Flutter Darter
+⚡️ Getting Rusty
+
+FULL TIME DEV // HEAD OF FRONTEND
 
 <a href="https://www.codewars.com/users/oliverborner"><img src="https://www.codewars.com/users/oliverborner/badges/small"></a>
+
+<a href="https://oliverborner.github.io">HOMEPAGE</a>
